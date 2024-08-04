@@ -2,6 +2,7 @@
 
 Social Buzz, a rapidly growing social media and content creation company founded in 2010, has reached over 500 million active users monthly and faces significant challenges in scaling their technology and preparing for an IPO. With a core team of 200 technical staff, they handle a large volume of unstructured data from over 100,000 daily content posts.
 
+-----
 
 **Task**
 
@@ -10,6 +11,7 @@ From the given dataset and data model, Social buzz wants us to determine the top
 - Clean the datasets and merge them to prepare the data for analysis.
 - Determine the answer to the client’s business question.
 
+-----
 
 **Action**
 
@@ -115,6 +117,7 @@ Enhance the chart's settings and properties to clearly highlight the top 5 popul
 
 
 
+-----
 
 **Results**
 
